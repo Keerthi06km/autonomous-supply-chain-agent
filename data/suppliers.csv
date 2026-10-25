@@ -1,0 +1,11 @@
+supplier_id,supplier_name,product_id,price,delivery_days,reliability
+S001,TechSupply,P001,45000,5,0.95
+S002,GlobalTech,P001,43500,8,0.90
+S003,QuickTech,P001,46000,3,0.98
+S004,OfficeMart,P002,850,4,0.92
+S005,KeyWorld,P002,800,6,0.95
+S006,MouseHub,P003,500,3,0.94
+S007,TechWorld,P003,450,5,0.91
+S008,DisplayTech,P004,12000,4,0.96
+S009,MonitorHub,P004,11500,7,0.90
+S010,AudioWorld,P005,1800,3,0.95

@@ -1,0 +1,6 @@
+product_id,product_name,current_stock,reorder_level,daily_demand
+P001,Laptop,20,50,10
+P002,Keyboard,100,40,5
+P003,Mouse,25,50,12
+P004,Monitor,15,30,6
+P005,Headphones,80,30,4
